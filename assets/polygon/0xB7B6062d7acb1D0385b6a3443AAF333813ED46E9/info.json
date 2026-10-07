@@ -1,0 +1,8 @@
+{
+  "name": "Fixx USD",
+  "symbol": "FXUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Fixx USD stablecoin token on Polygon network",
+  "website": "https://fixxusd.shop"
+}
